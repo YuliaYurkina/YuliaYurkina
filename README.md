@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @YuliaYurkina
 - 👀 I’m interested in Data Analytics
 - 📫 How to reach me https://t.me/YuliaYurkin
+- You can find my projects on master branch
 
 <!---
 YuliaYurkina/YuliaYurkina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
